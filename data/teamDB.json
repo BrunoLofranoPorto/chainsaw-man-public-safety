@@ -1,0 +1,60 @@
+{
+    "team": [
+        {
+            "image-route": "makima",
+            "name": "Makima",
+            "rank": "Division Head",
+            "age": "Unknown",
+            "pacts": "Classified",
+            "id": 1
+        },
+        {
+            "imageRoute": "kishibe",
+            "name": "Kishibe",
+            "rank": "Captain",
+            "age": "early 50s",
+            "pacts": "Claw demon, Knife demon, Needle demon",
+            "id": 2
+        },
+        {
+            "imageRoute": "himeno",
+            "name": "Himeno",
+            "rank": "Veteran devil hunter",
+            "age": "Late 20s",
+            "pacts": "Ghost demon",
+            "id": 3
+        },
+        {
+            "imageRoute": "aki",
+            "name": "Hayakawa Aki",
+            "rank": "Devil hunter",
+            "age": "19",
+            "pacts": "Fox demon (former), Future demon, Curse demon",
+            "id": 4
+        },
+        {
+            "imageRoute": "kobeni",
+            "name": "Higashiyama Kobeni",
+            "rank": "Devil hunter",
+            "age": "20",
+            "pacts": "Undisclosed",
+            "id": 5
+        },
+        {
+            "imageRoute": "denji",
+            "name": "Denji",
+            "rank": "Devil hunter",
+            "age": "16",
+            "pacts": "Classified",
+            "id": 6
+        },
+        {
+            "imageRoute": "power",
+            "name": "Power",
+            "rank": "Devil hunter",
+            "age": "Unkown",
+            "pacts": "Classified",
+            "id": 7
+        }
+    ]
+}
